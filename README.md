@@ -9,7 +9,7 @@ Minimal FastAPI app + Dockerfile + GitHub Actions workflows demonstrating CI bui
 
 ```
 .
-├── Dockerfile
+├── Dockerfile  
 ├── requirements.txt
 ├── src/
 │   ├── main.py              # FastAPI app: GET / -> {"message","status"}
